@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C#Task-OOP,class,inheritance/1.0.0": {
+        "runtime": {
+          "C#Task-OOP,class,inheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#Task-OOP,class,inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

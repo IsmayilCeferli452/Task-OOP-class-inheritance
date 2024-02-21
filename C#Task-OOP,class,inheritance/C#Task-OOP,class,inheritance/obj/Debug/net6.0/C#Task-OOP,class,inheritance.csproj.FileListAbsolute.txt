@@ -1,0 +1,14 @@
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\bin\Debug\net6.0\C#Task-OOP,class,inheritance.exe
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\bin\Debug\net6.0\C#Task-OOP,class,inheritance.deps.json
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\bin\Debug\net6.0\C#Task-OOP,class,inheritance.runtimeconfig.json
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\bin\Debug\net6.0\C#Task-OOP,class,inheritance.dll
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\bin\Debug\net6.0\C#Task-OOP,class,inheritance.pdb
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\obj\Debug\net6.0\C#Task-OOP,class,inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\obj\Debug\net6.0\C#Task-OOP,class,inheritance.AssemblyInfoInputs.cache
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\obj\Debug\net6.0\C#Task-OOP,class,inheritance.AssemblyInfo.cs
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\obj\Debug\net6.0\C#Task-OOP,class,inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\obj\Debug\net6.0\C#Task-OOP,class,inheritance.dll
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\obj\Debug\net6.0\refint\C#Task-OOP,class,inheritance.dll
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\obj\Debug\net6.0\C#Task-OOP,class,inheritance.pdb
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\obj\Debug\net6.0\C#Task-OOP,class,inheritance.genruntimeconfig.cache
+C:\Users\ismay\OneDrive\Masaüstü\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\C#Task-OOP,class,inheritance\obj\Debug\net6.0\ref\C#Task-OOP,class,inheritance.dll
